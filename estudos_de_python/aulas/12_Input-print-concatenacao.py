@@ -5,6 +5,7 @@ planIncluded = input("Está incluso no serviço mensal?\n")
 
 print("###Dados do Jogo####")
 print("====================")
+
 # Alternativa 1
 # print("Nome do Jogo:", name)
 # print("Ano do Jogo:", yearLaunch)

@@ -1,3 +1,7 @@
+'''Média de 4 notas
+
+Escreva um programa em Python que leia quatro números e calcule a média entre esses números'''
+
 print('Esvreva 4 valores e eu vou dizer qual e a media entre eles.')
 
 n1 = int(input('Escreva o primeiro valor: '))
