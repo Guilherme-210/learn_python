@@ -16,3 +16,4 @@ print(gameDescription.count('a')) #Conta quantos caracteres
 print(gameDescription.count('A')) #Conta quantos caracteres 
 print(gameDescription.replace("Fifa", "Pes")) #Altera elementos
 print(gameDescription.split(','))
+print(f'Vai ficar um total de R$:{"{:.2f}".format(vp)}.') #Formata a quantidades de casas decimais
