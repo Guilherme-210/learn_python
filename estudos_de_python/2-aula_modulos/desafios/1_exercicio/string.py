@@ -1,5 +1,5 @@
 # Inverter uma string de trás pra frente.
-def inv(string):
+def inverse(string):
     return string[::-1]
 
 # Retornar apenas letras com índice par.
@@ -8,6 +8,6 @@ def par(string):
     
 
 # Retornar apenas letras com índice ímpar.
-def imp(string):
+def impar(string):
     return string[1::2]
     
