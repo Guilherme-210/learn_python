@@ -8,6 +8,8 @@ def Check_character(string):
   string = rule.search(string)
   return not bool(string)
 
-print(Check_character('fdjtgJTYJGHFDJrjhgdfj4654324'))
+print(Check_character('TfdjtgJTYJGHFDJrjhgdfj4654324'))
 print(Check_character('fdjtgJTYJGHFD Jrjhgd.fj4654324'))
 print(Check_character('fdjtgJTYJáGHFDJrjhgdfj4654324'))
+
+print(Check_character(input('Digite a frase para chegar: ')))
